@@ -1,0 +1,1 @@
+wget https://github.com/rust-analyzer/rust-analyzer/releases/latest/download/rust-analyzer-x86_64-unknown-linux-gnu.gz && gunzip rust-analyzer-x86_64-unknown-linux-gnu.gz && sudo mv rust-analyzer-x86_64-unknown-linux-gnu /usr/local/bin/rust-analyzer && sudo chmod a+x /usr/local/bin/rust-analyzer && echo 'DONE'
